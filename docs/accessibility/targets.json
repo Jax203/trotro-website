@@ -1,0 +1,722 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/parents",
+    "smallTargets": [
+      {
+        "text": "transportation terms",
+        "tag": "A",
+        "width": 154.140625,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/schools",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/safety",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/about",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "smallTargets": [
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "Privacy policy",
+        "tag": "A",
+        "width": 99.265625,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/download",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/privacy",
+    "smallTargets": [
+      {
+        "text": "1. Information We Collect",
+        "tag": "A",
+        "width": 181.015625,
+        "height": 22
+      },
+      {
+        "text": "2. How We Use Your Information",
+        "tag": "A",
+        "width": 231.640625,
+        "height": 22
+      },
+      {
+        "text": "3. How We Share Your Information",
+        "tag": "A",
+        "width": 245.609375,
+        "height": 22
+      },
+      {
+        "text": "4. Children’s Privacy",
+        "tag": "A",
+        "width": 144.40625,
+        "height": 22
+      },
+      {
+        "text": "5. Location Data",
+        "tag": "A",
+        "width": 119.0625,
+        "height": 22
+      },
+      {
+        "text": "6. Data Retention",
+        "tag": "A",
+        "width": 128.578125,
+        "height": 22
+      },
+      {
+        "text": "7. Deleting Your Account",
+        "tag": "A",
+        "width": 177.53125,
+        "height": 22
+      },
+      {
+        "text": "8. Your Rights",
+        "tag": "A",
+        "width": 99.71875,
+        "height": 22
+      },
+      {
+        "text": "9. Security",
+        "tag": "A",
+        "width": 78.5625,
+        "height": 22
+      },
+      {
+        "text": "10. Notifications and Emails",
+        "tag": "A",
+        "width": 200.328125,
+        "height": 22
+      },
+      {
+        "text": "11. Third-Party Links and Services",
+        "tag": "A",
+        "width": 240.46875,
+        "height": 22
+      },
+      {
+        "text": "12. Contact Us",
+        "tag": "A",
+        "width": 106.4375,
+        "height": 22
+      },
+      {
+        "text": "13. Changes to This Policy",
+        "tag": "A",
+        "width": 188.78125,
+        "height": 22
+      },
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "jointrotro.com/contact",
+        "tag": "A",
+        "width": 168.609375,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/terms",
+    "smallTargets": [
+      {
+        "text": "1. Overview of TroTro Transportation",
+        "tag": "A",
+        "width": 262.046875,
+        "height": 22
+      },
+      {
+        "text": "2. Service Description",
+        "tag": "A",
+        "width": 159.84375,
+        "height": 22
+      },
+      {
+        "text": "3. Parent Responsibilities",
+        "tag": "A",
+        "width": 185.109375,
+        "height": 22
+      },
+      {
+        "text": "4. Pickup and Drop-off Expectations",
+        "tag": "A",
+        "width": 263.078125,
+        "height": 22
+      },
+      {
+        "text": "6. Scheduling",
+        "tag": "A",
+        "width": 100.203125,
+        "height": 22
+      },
+      {
+        "text": "7. Late Pickup Policy",
+        "tag": "A",
+        "width": 145.8125,
+        "height": 22
+      },
+      {
+        "text": "8. Service Interruptions",
+        "tag": "A",
+        "width": 171.265625,
+        "height": 22
+      },
+      {
+        "text": "9. School Closures",
+        "tag": "A",
+        "width": 136.796875,
+        "height": 22
+      },
+      {
+        "text": "10. Weather Delays",
+        "tag": "A",
+        "width": 138.65625,
+        "height": 22
+      },
+      {
+        "text": "11. Driver Substitution",
+        "tag": "A",
+        "width": 157.8125,
+        "height": 22
+      },
+      {
+        "text": "12. Vehicle Substitution",
+        "tag": "A",
+        "width": 171.140625,
+        "height": 22
+      },
+      {
+        "text": "13. Communication Expectations",
+        "tag": "A",
+        "width": 241.1875,
+        "height": 22
+      },
+      {
+        "text": "14. Billing Overview",
+        "tag": "A",
+        "width": 137.21875,
+        "height": 22
+      },
+      {
+        "text": "15. Subscription Overview",
+        "tag": "A",
+        "width": 187.734375,
+        "height": 22
+      },
+      {
+        "text": "16. Cancellation Policy",
+        "tag": "A",
+        "width": 163.375,
+        "height": 22
+      },
+      {
+        "text": "17. Refund Policy",
+        "tag": "A",
+        "width": 120.734375,
+        "height": 22
+      },
+      {
+        "text": "18. Safety Expectations",
+        "tag": "A",
+        "width": 172.09375,
+        "height": 22
+      },
+      {
+        "text": "19. Behavior Expectations",
+        "tag": "A",
+        "width": 188.671875,
+        "height": 22
+      },
+      {
+        "text": "20. Limitation of Liability",
+        "tag": "A",
+        "width": 177.375,
+        "height": 22
+      },
+      {
+        "text": "21. Emergency Procedures",
+        "tag": "A",
+        "width": 192.671875,
+        "height": 22
+      },
+      {
+        "text": "22. Privacy Summary",
+        "tag": "A",
+        "width": 150.875,
+        "height": 22
+      },
+      {
+        "text": "23. Modification of Terms",
+        "tag": "A",
+        "width": 184.703125,
+        "height": 22
+      },
+      {
+        "text": "24. Contact Information",
+        "tag": "A",
+        "width": 174.75,
+        "height": 22
+      },
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "jointrotro.com/contact",
+        "tag": "A",
+        "width": 168.609375,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "route": "/partner-preview",
+    "smallTargets": []
+  },
+  {
+    "width": 320,
+    "route": "/audit-not-found",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/parents",
+    "smallTargets": [
+      {
+        "text": "Read the process and its limits.",
+        "tag": "A",
+        "width": 228.234375,
+        "height": 22
+      },
+      {
+        "text": "Ask about your neighborhood and school",
+        "tag": "A",
+        "width": 300.4375,
+        "height": 22
+      },
+      {
+        "text": "transportation terms",
+        "tag": "A",
+        "width": 154.140625,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/schools",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/safety",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/about",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "smallTargets": [
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "Privacy policy",
+        "tag": "A",
+        "width": 99.265625,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/download",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/privacy",
+    "smallTargets": [
+      {
+        "text": "1. Information We Collect",
+        "tag": "A",
+        "width": 181.015625,
+        "height": 22
+      },
+      {
+        "text": "2. How We Use Your Information",
+        "tag": "A",
+        "width": 231.640625,
+        "height": 22
+      },
+      {
+        "text": "3. How We Share Your Information",
+        "tag": "A",
+        "width": 245.609375,
+        "height": 22
+      },
+      {
+        "text": "4. Children’s Privacy",
+        "tag": "A",
+        "width": 144.40625,
+        "height": 22
+      },
+      {
+        "text": "5. Location Data",
+        "tag": "A",
+        "width": 119.0625,
+        "height": 22
+      },
+      {
+        "text": "6. Data Retention",
+        "tag": "A",
+        "width": 128.578125,
+        "height": 22
+      },
+      {
+        "text": "7. Deleting Your Account",
+        "tag": "A",
+        "width": 177.53125,
+        "height": 22
+      },
+      {
+        "text": "8. Your Rights",
+        "tag": "A",
+        "width": 99.71875,
+        "height": 22
+      },
+      {
+        "text": "9. Security",
+        "tag": "A",
+        "width": 78.5625,
+        "height": 22
+      },
+      {
+        "text": "10. Notifications and Emails",
+        "tag": "A",
+        "width": 200.328125,
+        "height": 22
+      },
+      {
+        "text": "11. Third-Party Links and Services",
+        "tag": "A",
+        "width": 240.46875,
+        "height": 22
+      },
+      {
+        "text": "12. Contact Us",
+        "tag": "A",
+        "width": 106.4375,
+        "height": 22
+      },
+      {
+        "text": "13. Changes to This Policy",
+        "tag": "A",
+        "width": 188.78125,
+        "height": 22
+      },
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "jointrotro.com/contact",
+        "tag": "A",
+        "width": 168.609375,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/terms",
+    "smallTargets": [
+      {
+        "text": "1. Overview of TroTro Transportation",
+        "tag": "A",
+        "width": 262.046875,
+        "height": 22
+      },
+      {
+        "text": "2. Service Description",
+        "tag": "A",
+        "width": 159.84375,
+        "height": 22
+      },
+      {
+        "text": "3. Parent Responsibilities",
+        "tag": "A",
+        "width": 185.109375,
+        "height": 22
+      },
+      {
+        "text": "4. Pickup and Drop-off Expectations",
+        "tag": "A",
+        "width": 263.078125,
+        "height": 22
+      },
+      {
+        "text": "5. Authorized Pickup and Drop-off Requirements",
+        "tag": "A",
+        "width": 353.359375,
+        "height": 22
+      },
+      {
+        "text": "6. Scheduling",
+        "tag": "A",
+        "width": 100.203125,
+        "height": 22
+      },
+      {
+        "text": "7. Late Pickup Policy",
+        "tag": "A",
+        "width": 145.8125,
+        "height": 22
+      },
+      {
+        "text": "8. Service Interruptions",
+        "tag": "A",
+        "width": 171.265625,
+        "height": 22
+      },
+      {
+        "text": "9. School Closures",
+        "tag": "A",
+        "width": 136.796875,
+        "height": 22
+      },
+      {
+        "text": "10. Weather Delays",
+        "tag": "A",
+        "width": 138.65625,
+        "height": 22
+      },
+      {
+        "text": "11. Driver Substitution",
+        "tag": "A",
+        "width": 157.8125,
+        "height": 22
+      },
+      {
+        "text": "12. Vehicle Substitution",
+        "tag": "A",
+        "width": 171.140625,
+        "height": 22
+      },
+      {
+        "text": "13. Communication Expectations",
+        "tag": "A",
+        "width": 241.1875,
+        "height": 22
+      },
+      {
+        "text": "14. Billing Overview",
+        "tag": "A",
+        "width": 137.21875,
+        "height": 22
+      },
+      {
+        "text": "15. Subscription Overview",
+        "tag": "A",
+        "width": 187.734375,
+        "height": 22
+      },
+      {
+        "text": "16. Cancellation Policy",
+        "tag": "A",
+        "width": 163.375,
+        "height": 22
+      },
+      {
+        "text": "17. Refund Policy",
+        "tag": "A",
+        "width": 120.734375,
+        "height": 22
+      },
+      {
+        "text": "18. Safety Expectations",
+        "tag": "A",
+        "width": 172.09375,
+        "height": 22
+      },
+      {
+        "text": "19. Behavior Expectations",
+        "tag": "A",
+        "width": 188.671875,
+        "height": 22
+      },
+      {
+        "text": "20. Limitation of Liability",
+        "tag": "A",
+        "width": 177.375,
+        "height": 22
+      },
+      {
+        "text": "21. Emergency Procedures",
+        "tag": "A",
+        "width": 192.671875,
+        "height": 22
+      },
+      {
+        "text": "22. Privacy Summary",
+        "tag": "A",
+        "width": 150.875,
+        "height": 22
+      },
+      {
+        "text": "23. Modification of Terms",
+        "tag": "A",
+        "width": 184.703125,
+        "height": 22
+      },
+      {
+        "text": "24. Contact Information",
+        "tag": "A",
+        "width": 174.75,
+        "height": 22
+      },
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "jointrotro.com/contact",
+        "tag": "A",
+        "width": 168.609375,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "/partner-preview",
+    "smallTargets": []
+  },
+  {
+    "width": 768,
+    "route": "/audit-not-found",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/parents",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/schools",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/safety",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/about",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "smallTargets": [
+      {
+        "text": "trotrotransit@gmail.com",
+        "tag": "A",
+        "width": 181.3125,
+        "height": 22
+      },
+      {
+        "text": "Privacy policy",
+        "tag": "A",
+        "width": 99.265625,
+        "height": 22
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "/download",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/privacy",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/terms",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/partner-preview",
+    "smallTargets": []
+  },
+  {
+    "width": 1440,
+    "route": "/audit-not-found",
+    "smallTargets": []
+  }
+]

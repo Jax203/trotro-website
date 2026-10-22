@@ -1,0 +1,80 @@
+[
+  {
+    "route": "/",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "TroTro \u2014 A better ride to school. A calmer morning.",
+    "width": 854
+  },
+  {
+    "route": "/parents",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "For parents \u2014 care for your school morning | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/schools",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "For schools \u2014 make your community easier to reach | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/safety",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Our approach to safety & TroTro Verified | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/about",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Our story \u2014 the care behind the ride | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/contact",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Check ride availability & get in touch | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/download",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "The parent app \u2014 connection along the way | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/privacy",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Privacy policy | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/terms",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Terms of service | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/partner-preview",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Partner logo treatment \u2014 internal preview | TroTro",
+    "width": 854
+  },
+  {
+    "route": "/audit-not-found",
+    "dpr": 2,
+    "scrollWidth": 854,
+    "title": "Page not found | TroTro",
+    "width": 854,
+    "note": "Title reverified after the 404 metadata correction at actual 200% zoom."
+  }
+]

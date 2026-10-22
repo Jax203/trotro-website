@@ -1,0 +1,12 @@
+docs/
+tests/
+scripts/
+test-results/
+playwright-report/
+node_modules/
+.next/
+.env*
+*.tsbuildinfo
+AGENTS.md
+README.md
+playwright.config.ts

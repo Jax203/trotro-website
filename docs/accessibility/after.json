@@ -1,0 +1,6168 @@
+{
+  "phase": "after",
+  "scans": [
+    {
+      "route": "/",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/schools",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 320,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 375,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 390,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 768,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 1024,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 1440,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A better rideto school.A calmer morning."
+        },
+        {
+          "tag": "H2",
+          "text": "A school morning, with care."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "You’ve got enoughon your mindevery morning."
+        },
+        {
+          "tag": "H2",
+          "text": "Real transportation.Real responsibility."
+        },
+        {
+          "tag": "H3",
+          "text": "People you can know."
+        },
+        {
+          "tag": "H3",
+          "text": "Rides planned with purpose."
+        },
+        {
+          "tag": "H3",
+          "text": "The moments accounted for."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Confidence startsbefore the first pickup."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "A little more clarity.A lot less wondering."
+        },
+        {
+          "tag": "H3",
+          "text": "See who’s behind the wheel."
+        },
+        {
+          "tag": "H3",
+          "text": "Know where their ride is."
+        },
+        {
+          "tag": "H3",
+          "text": "Be there for the little updates."
+        },
+        {
+          "tag": "H3",
+          "text": "Look back when you need to."
+        },
+        {
+          "tag": "H2",
+          "text": "The school daystarts long beforethe bell."
+        },
+        {
+          "tag": "H2",
+          "text": "Because it’s neverjust a ride to school."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "route": "/parents",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A school ride you can feel more connected to."
+        },
+        {
+          "tag": "H2",
+          "text": "You take care of the goodbye.We help coordinate what comes next."
+        },
+        {
+          "tag": "H2",
+          "text": "Follow a school morning."
+        },
+        {
+          "tag": "H3",
+          "text": "A plan before the first hello."
+        },
+        {
+          "tag": "H2",
+          "text": "Good questions.Clear answers."
+        },
+        {
+          "tag": "H2",
+          "text": "Already have a ride arranged?"
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "route": "/schools",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The right school should feel within reach."
+        },
+        {
+          "tag": "H2",
+          "text": "A thoughtful journeybelongs in the school day."
+        },
+        {
+          "tag": "H3",
+          "text": "More practical access"
+        },
+        {
+          "tag": "H3",
+          "text": "Clear responsibilities"
+        },
+        {
+          "tag": "H3",
+          "text": "Parents kept informed"
+        },
+        {
+          "tag": "H3",
+          "text": "Verification built into the plan"
+        },
+        {
+          "tag": "H2",
+          "text": "Every good partnershipstarts with listening."
+        },
+        {
+          "tag": "H3",
+          "text": "Start with your community"
+        },
+        {
+          "tag": "H3",
+          "text": "Look at the routes that could help"
+        },
+        {
+          "tag": "H3",
+          "text": "Coordinate drivers and the ride"
+        },
+        {
+          "tag": "H3",
+          "text": "Help parents get connected"
+        },
+        {
+          "tag": "H3",
+          "text": "Begin, learn and review"
+        },
+        {
+          "tag": "H2",
+          "text": "Care that hasa process behind it."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/safety",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Trust starts with knowing what’s behind the ride."
+        },
+        {
+          "tag": "H2",
+          "text": "A current status.An ongoing process."
+        },
+        {
+          "tag": "H3",
+          "text": "Identity & license"
+        },
+        {
+          "tag": "H3",
+          "text": "Driving record & background"
+        },
+        {
+          "tag": "H3",
+          "text": "Vehicle inspection"
+        },
+        {
+          "tag": "H3",
+          "text": "Training & current status"
+        },
+        {
+          "tag": "H2",
+          "text": "Responsibility doesn’tend at the curb."
+        },
+        {
+          "tag": "H3",
+          "text": "Agreed expectations."
+        },
+        {
+          "tag": "H3",
+          "text": "Confirmed stops."
+        },
+        {
+          "tag": "H3",
+          "text": "A way to raise a concern."
+        },
+        {
+          "tag": "H2",
+          "text": "Clear about whatverification means."
+        },
+        {
+          "tag": "H3",
+          "text": "TroTro Verified is"
+        },
+        {
+          "tag": "H3",
+          "text": "It is not"
+        },
+        {
+          "tag": "H2",
+          "text": "Questions deserve a conversation."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/about",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "It’s a school journey. And someone’s whole world."
+        },
+        {
+          "tag": "H2",
+          "text": "Built around one ride:a child’s."
+        },
+        {
+          "tag": "H2",
+          "text": "What we bring to every journey."
+        },
+        {
+          "tag": "H3",
+          "text": "Care."
+        },
+        {
+          "tag": "H3",
+          "text": "Trust."
+        },
+        {
+          "tag": "H3",
+          "text": "Connection."
+        },
+        {
+          "tag": "H2",
+          "text": "Thoughtful technology.A very human purpose."
+        },
+        {
+          "tag": "H2",
+          "text": "A better school morningstarts here."
+        },
+        {
+          "tag": "H3",
+          "text": "Let’s find your way to school."
+        },
+        {
+          "tag": "H3",
+          "text": "Make the journey part of the care."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s findyour next step."
+        },
+        {
+          "tag": "H2",
+          "text": "Tell us about your school run."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/download",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The school ride.A little closer."
+        },
+        {
+          "tag": "H2",
+          "text": "From download to your first ride."
+        },
+        {
+          "tag": "H3",
+          "text": "Get the app."
+        },
+        {
+          "tag": "H3",
+          "text": "Set up your account."
+        },
+        {
+          "tag": "H3",
+          "text": "Connect to your service."
+        },
+        {
+          "tag": "H3",
+          "text": "A little help getting started?"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/privacy",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Privacy Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Information We Collect"
+        },
+        {
+          "tag": "H3",
+          "text": "Account information"
+        },
+        {
+          "tag": "H3",
+          "text": "Driver information"
+        },
+        {
+          "tag": "H3",
+          "text": "Location data"
+        },
+        {
+          "tag": "H3",
+          "text": "Payment information"
+        },
+        {
+          "tag": "H3",
+          "text": "Usage and device data"
+        },
+        {
+          "tag": "H3",
+          "text": "Support communications"
+        },
+        {
+          "tag": "H3",
+          "text": "Website inquiries"
+        },
+        {
+          "tag": "H2",
+          "text": "2. How We Use Your Information"
+        },
+        {
+          "tag": "H2",
+          "text": "3. How We Share Your Information"
+        },
+        {
+          "tag": "H3",
+          "text": "With drivers"
+        },
+        {
+          "tag": "H3",
+          "text": "With co-parents you invite"
+        },
+        {
+          "tag": "H3",
+          "text": "With school partners"
+        },
+        {
+          "tag": "H3",
+          "text": "With service providers"
+        },
+        {
+          "tag": "H3",
+          "text": "For legal reasons"
+        },
+        {
+          "tag": "H3",
+          "text": "No advertising or tracking"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Children’s Privacy"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Location Data"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Data Retention"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Deleting Your Account"
+        },
+        {
+          "tag": "H3",
+          "text": "What deletion removes"
+        },
+        {
+          "tag": "H3",
+          "text": "What we keep"
+        },
+        {
+          "tag": "H3",
+          "text": "Requesting deletion by email"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Your Rights"
+        },
+        {
+          "tag": "H2",
+          "text": "9. Security"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Notifications and Emails"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Third-Party Links and Services"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Contact Us"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Changes to This Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/terms",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Terms of Service"
+        },
+        {
+          "tag": "H2",
+          "text": "Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "1. Overview of TroTro Transportation"
+        },
+        {
+          "tag": "H2",
+          "text": "2. Service Description"
+        },
+        {
+          "tag": "H2",
+          "text": "3. Parent Responsibilities"
+        },
+        {
+          "tag": "H2",
+          "text": "4. Pickup and Drop-off Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "5. Authorized Pickup and Drop-off Requirements"
+        },
+        {
+          "tag": "H2",
+          "text": "6. Scheduling"
+        },
+        {
+          "tag": "H2",
+          "text": "7. Late Pickup Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "8. Service Interruptions"
+        },
+        {
+          "tag": "H2",
+          "text": "9. School Closures"
+        },
+        {
+          "tag": "H2",
+          "text": "10. Weather Delays"
+        },
+        {
+          "tag": "H2",
+          "text": "11. Driver Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "12. Vehicle Substitution"
+        },
+        {
+          "tag": "H2",
+          "text": "13. Communication Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "14. Billing Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "15. Subscription Overview"
+        },
+        {
+          "tag": "H2",
+          "text": "16. Cancellation Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "17. Refund Policy"
+        },
+        {
+          "tag": "H2",
+          "text": "18. Safety Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "19. Behavior Expectations"
+        },
+        {
+          "tag": "H2",
+          "text": "20. Limitation of Liability"
+        },
+        {
+          "tag": "H2",
+          "text": "21. Emergency Procedures"
+        },
+        {
+          "tag": "H2",
+          "text": "22. Privacy Summary"
+        },
+        {
+          "tag": "H2",
+          "text": "23. Modification of Terms"
+        },
+        {
+          "tag": "H2",
+          "text": "24. Contact Information"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/partner-preview",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Helping families get tothe schools they love."
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted by:"
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/audit-not-found",
+      "width": 1920,
+      "overflow": false,
+      "smallText": [],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Let’s get youback on your way."
+        },
+        {
+          "tag": "H2",
+          "text": "Families & schools"
+        },
+        {
+          "tag": "H2",
+          "text": "Get to know TroTro"
+        },
+        {
+          "tag": "H2",
+          "text": "A question about the ride?"
+        }
+      ],
+      "spaced": {
+        "overflow": false,
+        "clipped": []
+      },
+      "violations": [],
+      "incomplete": []
+    }
+  ],
+  "states": []
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.jointrotro.com/#organization",
+      "name": "TroTro",
+      "url": "https://www.jointrotro.com",
+      "email": "trotrotransit@gmail.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.jointrotro.com/#website",
+      "name": "TroTro",
+      "url": "https://www.jointrotro.com",
+      "publisher": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.jointrotro.com/download#webpage",
+      "url": "https://www.jointrotro.com/download",
+      "name": "The school ride. A little closer.",
+      "description": "See who’s driving. Follow the active ride. Get an update at pickup and drop-off. The TroTro parent app keeps useful information within reach.",
+      "isPartOf": {
+        "@id": "https://www.jointrotro.com/#website"
+      },
+      "about": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}

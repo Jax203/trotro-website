@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.jointrotro.com/#organization",
+      "name": "TroTro",
+      "url": "https://www.jointrotro.com",
+      "email": "trotrotransit@gmail.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.jointrotro.com/#website",
+      "name": "TroTro",
+      "url": "https://www.jointrotro.com",
+      "publisher": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.jointrotro.com/parents#webpage",
+      "url": "https://www.jointrotro.com/parents",
+      "name": "A school ride you can feel more connected to.",
+      "description": "Know the people behind the ride, understand the plan, and get the updates that matter. We help put the school journey in clearer view.",
+      "isPartOf": {
+        "@id": "https://www.jointrotro.com/#website"
+      },
+      "about": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.jointrotro.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}

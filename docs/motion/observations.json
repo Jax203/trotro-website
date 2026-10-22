@@ -1,0 +1,56 @@
+{
+  "desktop": {
+    ".button": {
+      "transition": "background 0.2s, transform 0.2s",
+      "animation": "none",
+      "origin": "116.992px 26.1953px"
+    },
+    ".text-link svg": {
+      "transition": "transform 0.2s",
+      "animation": "none",
+      "origin": "6.5px 9px"
+    },
+    ".desktop-nav>a": {
+      "transition": "transform 0.2s",
+      "animation": "none",
+      "origin": "43.2578px 0.5px"
+    },
+    ".journey-dot": {
+      "transition": "background 0.2s",
+      "animation": "none",
+      "origin": "18px 18px"
+    },
+    ".hero-video": {
+      "transition": "all",
+      "animation": "none",
+      "origin": "339.195px 292px"
+    },
+    ".hero-video-surface": {
+      "transition": "all",
+      "animation": "none",
+      "origin": "339.195px 292px"
+    }
+  },
+  "journey": {
+    "title": "A familiar face. A confirmed pickup.",
+    "animations": 0
+  },
+  "mobileMenu": {
+    "visible": true,
+    "animations": 0
+  },
+  "faq": {
+    "transition": "all",
+    "transform": "matrix(0.707107, 0.707107, -0.707107, 0.707107, 0, 0)"
+  },
+  "review": {
+    "visible": true,
+    "animations": 0,
+    "focused": "H2"
+  },
+  "reducedMotion": {
+    "heroPaused": true,
+    "buttonTransition": "none",
+    "scrollBehavior": "auto"
+  }
+}

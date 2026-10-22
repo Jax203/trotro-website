@@ -1,0 +1,32 @@
+{
+  "browser": "Chrome on macOS",
+  "zoom": "200% verified in native Chrome UI; reset to 100% after testing",
+  "viewportCSSPixels": 854,
+  "documentWidthCSSPixels": 854,
+  "finalHeroAt200": {
+    "autoplay": true,
+    "muted": true,
+    "pauseControl": true,
+    "horizontalOverflow": false
+  },
+  "screenReaderSessionCompleted": false,
+  "physicalMobileSessionCompleted": false,
+  "playwrightFullSuite": {
+    "passed": 50,
+    "failed": 0
+  },
+  "finalAffectedTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "finalAxeRouteViewportScans": {
+    "count": 77,
+    "violations": 0,
+    "overflow": 0,
+    "clippedTextDetected": 0
+  },
+  "lighthouseAccessibility": {
+    "home": 100,
+    "contact": 100
+  }
+}
